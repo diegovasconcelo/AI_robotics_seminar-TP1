@@ -1,1 +1,5 @@
-# AI_robotics_seminar-TP1
+# Customer Segmentation Analysis using K-Means
+
+This project, completed as part of the AI and Robotics Seminar course, delves into customer segmentation using the unsupervised learning algorithm, K-Means. The goal is to group customers of a shopping mall into distinct segments based on key demographic and behavioral attributes such as age, gender, annual income, and spending score.
+* **Dataset:** The project leverages the publicly available ["Customer Segmentation Tutorial in Python"](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python) dataset from Kaggle.
+* **Methodology:** The K-Means algorithm is employed to partition the customer data into clusters. By minimizing the within-cluster sum of squares, K-Means seeks to identify groups of customers with similar characteristics.
